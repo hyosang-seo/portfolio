@@ -1,0 +1,96 @@
+body {
+	font-size:expression(document.body.clientWidth /15);
+	
+	font-family  : 'kopubdotum', sans-serif;
+	margin-top   : 40px;
+  	margin-left  : 30px;
+	margin-right : 30px;  
+	margin-bottom: 60px;
+}
+
+.relative{
+	position: relative;
+}
+.absolute{
+	position: absolute;
+	right : 0px;
+}
+.flex{
+
+	display : flex;
+	/* justify-content : space-around; */
+
+}
+ 
+.bold {
+	font-weight: bolder;
+}
+
+ul, ol {
+	list-style: none;
+}
+
+.nav_word {
+
+	color: black;
+	text-decoration: none;
+}
+
+.left_align {
+	 align-self: flex-start;
+
+}
+
+.right_align {
+	 align-self: flex-end; 
+
+}
+.inline{
+	display : inline;
+}
+.center{
+	text-align:center;
+}
+
+.margin_mid{
+	margin : 5vw 5vw;
+}
+
+img{
+	max-width:80%;
+	height:auto;
+}
+
+.skill_imgae{
+	margin-right: 1vw;
+	margin-left: 1vw;
+	width : 5vw;
+	height: 5vw;
+	 	
+}
+.work_box{
+
+	margin-top : 10vh;
+	margin-right: 10px;
+	width : auto;
+
+	
+}
+.contents{
+	margin-left : 10vw; 
+	margin-right: 10vw; 
+	margin-top:15vh; 
+	margin-bottom:20vh;
+	
+	width : 80%;
+	
+}
+
+/* 
+html{
+	border: 1px solid yellow;
+	}
+header{border: 1px solid green;}
+main{border: 1px solid blue;}
+div{border: 1px solid gray;}
+img{border: 1px solid red;}    */
