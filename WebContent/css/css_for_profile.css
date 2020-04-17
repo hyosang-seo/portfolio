@@ -86,6 +86,22 @@ img{
 	
 }
 
+
+
+
+
+/* Experience page */
+main .history{
+font-size : 1.6vw;
+margin-left: 20vw; 
+margin-bottom: 30vh; 
+margin-top: 30vh
+	
+}
+
+
+
+
 /* 
 html{
 	border: 1px solid yellow;
@@ -93,4 +109,4 @@ html{
 header{border: 1px solid green;}
 main{border: 1px solid blue;}
 div{border: 1px solid gray;}
-img{border: 1px solid red;}    */
+img{border: 1px solid red;}     */
